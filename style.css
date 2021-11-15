@@ -1,0 +1,57 @@
+#navbar{
+    padding: 30px;
+}
+
+#homeLink{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#homeLink:hover{
+    background-color: black;
+    color: white;
+}
+
+
+#categoriesLink{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#categoriesLink:hover{
+    background-color: black;
+    color: white;
+}
+
+#contactLink:hover{
+    background-color: black;
+    color: white;
+}
+
+#contactLink{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#logInLink{
+    padding-right: 70px;
+    padding-left: 200px;
+    text-decoration: none;
+    color: black;
+}
+
+#logInLink:hover{
+    color: blue;
+}
+
+#single_product{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    border-style: groove;
+    padding: 50px;
+}
